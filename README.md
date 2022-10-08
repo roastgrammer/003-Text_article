@@ -1,1 +1,1 @@
-Demo : https://roastgrammer.github.io/article-preview-component-master/
+Demo : https://roastgrammer.github.io/Text_article/
